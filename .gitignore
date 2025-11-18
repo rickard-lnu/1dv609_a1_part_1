@@ -48,9 +48,9 @@ java/practice/practice_with_run_tests/app/bin/
 java/practice/practice_with_mocked_tests/app/build/
 java/practice/practice_with_run_tests/app/build/
 
-java/examinations/.gradle
-java/examinations/app/build/
-java/examinations/app/bin/
+java/examination/.gradle
+java/examination/app/build/
+java/examination/app/bin/
 
 
 # IDE specific
